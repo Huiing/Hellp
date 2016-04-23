@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianyunbao/!svn/ver/31/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/VoiceConvert/opencore-amrnb
+END
+interf_enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/VoiceConvert/opencore-amrnb/interf_enc.h
+END
+interf_dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/VoiceConvert/opencore-amrnb/interf_dec.h
+END
+libopencore-amrnb.a
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/jianyunbao/!svn/ver/31/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/VoiceConvert/opencore-amrnb/libopencore-amrnb.a
+END

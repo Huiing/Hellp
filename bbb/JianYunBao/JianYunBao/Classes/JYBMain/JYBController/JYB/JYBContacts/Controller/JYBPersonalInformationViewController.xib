@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="JYBPersonalInformationViewController">
+            <connections>
+                <outlet property="table" destination="MWY-dy-09g" id="lNF-Pc-eZh"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="grouped" separatorStyle="default" rowHeight="44" sectionHeaderHeight="18" sectionFooterHeight="18" translatesAutoresizingMaskIntoConstraints="NO" id="MWY-dy-09g" customClass="BDBaseTableView">
+                    <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                    <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="hsx-Y5-29X"/>
+                        <outlet property="delegate" destination="-1" id="26e-6d-2Mi"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="MWY-dy-09g" secondAttribute="bottom" id="U7s-Ok-if5"/>
+                <constraint firstAttribute="trailing" secondItem="MWY-dy-09g" secondAttribute="trailing" id="Z97-Hd-XMC"/>
+                <constraint firstItem="MWY-dy-09g" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="bp5-vu-zbk">
+                    <variation key="widthClass=compact" constant="0.0"/>
+                </constraint>
+                <constraint firstItem="MWY-dy-09g" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="cQA-hF-y7m"/>
+            </constraints>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="MWY-dy-09g"/>
+                </mask>
+                <mask key="constraints">
+                    <exclude reference="U7s-Ok-if5"/>
+                    <exclude reference="Z97-Hd-XMC"/>
+                    <exclude reference="bp5-vu-zbk"/>
+                    <exclude reference="cQA-hF-y7m"/>
+                </mask>
+            </variation>
+            <variation key="widthClass=compact">
+                <mask key="subviews">
+                    <include reference="MWY-dy-09g"/>
+                </mask>
+                <mask key="constraints">
+                    <include reference="U7s-Ok-if5"/>
+                    <include reference="Z97-Hd-XMC"/>
+                    <include reference="bp5-vu-zbk"/>
+                    <include reference="cQA-hF-y7m"/>
+                </mask>
+            </variation>
+        </view>
+    </objects>
+</document>

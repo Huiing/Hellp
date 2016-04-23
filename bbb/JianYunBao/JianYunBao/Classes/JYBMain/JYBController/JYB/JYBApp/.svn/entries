@@ -1,0 +1,64 @@
+10
+
+dir
+205
+https://donghui.wu@124.200.37.78:8443/svn/jianyunbao/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp
+https://donghui.wu@124.200.37.78:8443/svn/jianyunbao
+
+
+
+2016-04-07T08:49:55.229735Z
+204
+zheng.jiang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8226170d-4e5b-7a42-8c83-fcc4fd2b0742
+
+Model
+dir
+
+Other
+dir
+
+appProwled（日常巡查）
+dir
+
+Controller
+dir
+
+QRCodeGenerator(二维码生成)
+dir
+
+appApplication(流程审批)
+dir
+
+appQuality(质量检查单)
+dir
+
+appSafe(安全检查单)
+dir
+
+appSignIn(签到)
+dir
+
+QRCode（二维码扫描）
+dir
+
+View
+dir
+
+appWorkOrder（工单）
+dir
+

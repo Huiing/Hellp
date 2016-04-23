@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jianyunbao/!svn/ver/38/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal
+END
+DemoErrorCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/DemoErrorCode.h
+END
+EMCDDeviceManager+Remind.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMCDDeviceManager+Remind.h
+END
+EMAudioPlayerUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMAudioPlayerUtil.h
+END
+EMCDDeviceManager+Media.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMCDDeviceManager+Media.h
+END
+EMCDDeviceManager+Remind.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMCDDeviceManager+Remind.m
+END
+EMAudioPlayerUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMAudioPlayerUtil.m
+END
+EMCDDeviceManager+Media.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/jianyunbao/!svn/ver/38/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMCDDeviceManager+Media.m
+END
+EMAudioRecorderUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMAudioRecorderUtil.h
+END
+EMAudioRecorderUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMAudioRecorderUtil.m
+END
+EMCDDeviceManager+ProximitySensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMCDDeviceManager+ProximitySensor.h
+END
+EMCDDeviceManagerBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMCDDeviceManagerBase.h
+END
+EMCDDeviceManager+Microphone.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMCDDeviceManager+Microphone.h
+END
+EMCDDeviceManager+ProximitySensor.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMCDDeviceManager+ProximitySensor.m
+END
+EMCDDeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMCDDeviceManager.h
+END
+EMCDDeviceManagerBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMCDDeviceManagerBase.m
+END
+EMCDDeviceManager+Microphone.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/DeviceUtil/internal/EMCDDeviceManager+Microphone.m
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/jianyunbao/!svn/ver/193/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/notice%EF%BC%88%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A%EF%BC%89/Controller
+END
+JYBNoticeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/jianyunbao/!svn/ver/193/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/notice%EF%BC%88%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A%EF%BC%89/Controller/JYBNoticeViewController.m
+END
+JYBNoticeCommentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/jianyunbao/!svn/ver/124/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/notice%EF%BC%88%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A%EF%BC%89/Controller/JYBNoticeCommentViewController.m
+END
+JYBNoticeDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/jianyunbao/!svn/ver/124/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/notice%EF%BC%88%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A%EF%BC%89/Controller/JYBNoticeDetailViewController.m
+END
+JYBNoticeViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/jianyunbao/!svn/ver/193/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/notice%EF%BC%88%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A%EF%BC%89/Controller/JYBNoticeViewController.xib
+END
+JYBNoticeDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/jianyunbao/!svn/ver/132/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/notice%EF%BC%88%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A%EF%BC%89/Controller/JYBNoticeDetailViewController.xib
+END
+JYBNoticeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/jianyunbao/!svn/ver/115/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/notice%EF%BC%88%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A%EF%BC%89/Controller/JYBNoticeViewController.h
+END
+JYBNoticeCommentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/jianyunbao/!svn/ver/124/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/notice%EF%BC%88%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A%EF%BC%89/Controller/JYBNoticeCommentViewController.h
+END
+JYBNoticeDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/jianyunbao/!svn/ver/115/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/notice%EF%BC%88%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A%EF%BC%89/Controller/JYBNoticeDetailViewController.h
+END

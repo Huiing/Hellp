@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianyunbao/!svn/ver/120/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBDailyInspect
+END
+JYBDailyInspectHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/jianyunbao/!svn/ver/21/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBDailyInspect/JYBDailyInspectHandle.h
+END
+JYBIMSendDailyInspectMessageApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/jianyunbao/!svn/ver/118/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBDailyInspect/JYBIMSendDailyInspectMessageApi.h
+END
+JYBDailyInspectHandle.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/jianyunbao/!svn/ver/120/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBDailyInspect/JYBDailyInspectHandle.m
+END
+JYBIMSendDailyInspectMessageApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/jianyunbao/!svn/ver/118/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBDailyInspect/JYBIMSendDailyInspectMessageApi.m
+END

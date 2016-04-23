@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes
+END
+MWGridCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWGridCell.h
+END
+MWCaptionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWCaptionView.h
+END
+MWCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWCommon.h
+END
+MWPhotoBrowserPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWPhotoBrowserPrivate.h
+END
+MWGridViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWGridViewController.m
+END
+MWPhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWPhoto.h
+END
+MWGridCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWGridCell.m
+END
+MWZoomingScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWZoomingScrollView.h
+END
+MWCaptionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWCaptionView.m
+END
+MWPhotoBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWPhotoBrowser.h
+END
+MWPhoto.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWPhoto.m
+END
+MWZoomingScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWZoomingScrollView.m
+END
+MWPhotoBrowser.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWPhotoBrowser.m
+END
+MWTapDetectingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWTapDetectingView.h
+END
+UIImage+MWPhotoBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/UIImage+MWPhotoBrowser.h
+END
+MWTapDetectingImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWTapDetectingImageView.h
+END
+MWPhotoProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWPhotoProtocol.h
+END
+MWTapDetectingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWTapDetectingView.m
+END
+MWTapDetectingImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWTapDetectingImageView.m
+END
+UIImage+MWPhotoBrowser.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/UIImage+MWPhotoBrowser.m
+END
+MWGridViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jianyunbao/!svn/ver/42/JianYunBao-iOS/JianYunBao/Pods/MWPhotoBrowser/Pod/Classes/MWGridViewController.h
+END

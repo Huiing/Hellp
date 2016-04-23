@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jianyunbao/!svn/ver/141/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel
+END
+JYBMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jianyunbao/!svn/ver/104/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBMessage.h
+END
+JYBBuildCloudEntity.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianyunbao/!svn/ver/17/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBBuildCloudEntity.m
+END
+JYBMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jianyunbao/!svn/ver/141/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBMessage.m
+END
+JYBConversation.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jianyunbao/!svn/ver/116/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBConversation.h
+END
+JYBMessageBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianyunbao/!svn/ver/119/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBMessageBuilder.h
+END
+JYBUserEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jianyunbao/!svn/ver/17/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBUserEntity.h
+END
+JYBIChatMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jianyunbao/!svn/ver/126/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBIChatMessage.h
+END
+JYBConversation.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jianyunbao/!svn/ver/116/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBConversation.m
+END
+JYBMessageBuilder.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianyunbao/!svn/ver/119/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBMessageBuilder.m
+END
+JYBUserEntity.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jianyunbao/!svn/ver/17/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBUserEntity.m
+END
+JYBMessageEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jianyunbao/!svn/ver/122/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBMessageEntity.h
+END
+JYBIChatMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jianyunbao/!svn/ver/126/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBIChatMessage.m
+END
+JYBBuildCloudEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianyunbao/!svn/ver/17/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/JYBModel/JYBBuildCloudEntity.h
+END

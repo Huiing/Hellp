@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianyunbao/!svn/ver/120/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBQualityCheck
+END
+JYBIMSendQCCommentMessageApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/jianyunbao/!svn/ver/26/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBQualityCheck/JYBIMSendQCCommentMessageApi.h
+END
+JYBQualityCheckHandle.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/jianyunbao/!svn/ver/120/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBQualityCheck/JYBQualityCheckHandle.m
+END
+JYBIMSendQCNodeMessageApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/jianyunbao/!svn/ver/26/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBQualityCheck/JYBIMSendQCNodeMessageApi.h
+END
+JYBIMSendQCCommentMessageApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/jianyunbao/!svn/ver/26/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBQualityCheck/JYBIMSendQCCommentMessageApi.m
+END
+JYBIMSendQCNodeMessageApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/jianyunbao/!svn/ver/26/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBQualityCheck/JYBIMSendQCNodeMessageApi.m
+END
+JYBQualityCheckHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/jianyunbao/!svn/ver/21/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBQualityCheck/JYBQualityCheckHandle.h
+END

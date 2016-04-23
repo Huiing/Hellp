@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianyunbao/!svn/ver/104/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer
+END
+BDIMSuperAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianyunbao/!svn/ver/22/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDIMSuperAPI.m
+END
+BDReceiveNotificationAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/jianyunbao/!svn/ver/104/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDReceiveNotificationAPI.h
+END
+BDReceiveMessageAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/jianyunbao/!svn/ver/104/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDReceiveMessageAPI.m
+END
+BDReceiveInValidUserAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/jianyunbao/!svn/ver/95/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDReceiveInValidUserAPI.m
+END
+BDReceiveNotificationAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/jianyunbao/!svn/ver/104/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDReceiveNotificationAPI.m
+END
+BDHeartBeatAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jianyunbao/!svn/ver/95/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDHeartBeatAPI.h
+END
+BDReceiveWhiteboardMessageAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/jianyunbao/!svn/ver/26/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDReceiveWhiteboardMessageAPI.h
+END
+BDHeartBeatAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jianyunbao/!svn/ver/22/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDHeartBeatAPI.m
+END
+BDReceiveWhiteboardMessageAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/jianyunbao/!svn/ver/55/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDReceiveWhiteboardMessageAPI.m
+END
+BDLoginAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianyunbao/!svn/ver/95/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDLoginAPI.h
+END
+BDLoginAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianyunbao/!svn/ver/22/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDLoginAPI.m
+END
+BDReceiveKickoffAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianyunbao/!svn/ver/95/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDReceiveKickoffAPI.h
+END
+BDIMSuperAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianyunbao/!svn/ver/95/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDIMSuperAPI.h
+END
+BDReceiveKickoffAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianyunbao/!svn/ver/72/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDReceiveKickoffAPI.m
+END
+BDReceiveMessageAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianyunbao/!svn/ver/72/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDReceiveMessageAPI.h
+END
+BDReceiveInValidUserAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/jianyunbao/!svn/ver/95/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMTransportLayer/BDReceiveInValidUserAPI.h
+END

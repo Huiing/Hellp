@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jianyunbao/!svn/ver/95/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDStateMaintance
+END
+BDClientState.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jianyunbao/!svn/ver/7/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDStateMaintance/BDClientState.m
+END
+RuntimeStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianyunbao/!svn/ver/95/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDStateMaintance/RuntimeStatus.m
+END
+BDClientStateMaintenanceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jianyunbao/!svn/ver/7/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDStateMaintance/BDClientStateMaintenanceManager.h
+END
+BDClientState.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianyunbao/!svn/ver/22/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDStateMaintance/BDClientState.h
+END
+RuntimeStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianyunbao/!svn/ver/81/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDStateMaintance/RuntimeStatus.h
+END
+BDClientStateMaintenanceManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jianyunbao/!svn/ver/72/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDStateMaintance/BDClientStateMaintenanceManager.m
+END

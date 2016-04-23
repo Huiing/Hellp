@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jianyunbao/!svn/ver/120/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBGroup
+END
+JYBChatGroupHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jianyunbao/!svn/ver/112/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBGroup/JYBChatGroupHandle.h
+END
+JYBIMSendGroupChatMessageApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/jianyunbao/!svn/ver/26/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBGroup/JYBIMSendGroupChatMessageApi.h
+END
+JYBChatGroupHandle.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jianyunbao/!svn/ver/120/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBGroup/JYBChatGroupHandle.m
+END
+JYBIMSendGroupChatMessageApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/jianyunbao/!svn/ver/112/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBGroup/JYBIMSendGroupChatMessageApi.m
+END

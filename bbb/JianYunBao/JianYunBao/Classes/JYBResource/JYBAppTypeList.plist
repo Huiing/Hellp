@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>工单1</string>
+		<key>name</key>
+		<string>工单</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>质量检查1</string>
+		<key>name</key>
+		<string>质量检查</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>安全检查1</string>
+		<key>name</key>
+		<string>安全检查</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>日常巡查</string>
+		<key>name</key>
+		<string>日常巡查</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>签到</string>
+		<key>name</key>
+		<string>签到</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>流程审批</string>
+		<key>name</key>
+		<string>流程审批</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>扫一扫</string>
+		<key>name</key>
+		<string>扫一扫</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>扫码上传</string>
+		<key>name</key>
+		<string>扫码上传</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>扫码讨论</string>
+		<key>name</key>
+		<string>扫码讨论</string>
+	</dict>
+</array>
+</plist>

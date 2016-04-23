@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork
+END
+YTKNetworkAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKNetworkAgent.h
+END
+YTKBatchRequestAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKBatchRequestAgent.h
+END
+YTKChainRequestAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKChainRequestAgent.h
+END
+YTKNetworkAgent.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKNetworkAgent.m
+END
+YTKBatchRequestAgent.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKBatchRequestAgent.m
+END
+YTKChainRequestAgent.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKChainRequestAgent.m
+END
+YTKNetworkConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKNetworkConfig.h
+END
+YTKBaseRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKBaseRequest.h
+END
+YTKNetworkConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKNetworkConfig.m
+END
+YTKNetworkPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKNetworkPrivate.h
+END
+YTKRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKRequest.h
+END
+YTKBaseRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKBaseRequest.m
+END
+YTKNetworkPrivate.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKNetworkPrivate.m
+END
+YTKBatchRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKBatchRequest.h
+END
+YTKChainRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKChainRequest.h
+END
+YTKRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKRequest.m
+END
+YTKBatchRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKBatchRequest.m
+END
+YTKChainRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jianyunbao/!svn/ver/6/JianYunBao-iOS/JianYunBao/Pods/YTKNetwork/YTKNetwork/YTKChainRequest.m
+END

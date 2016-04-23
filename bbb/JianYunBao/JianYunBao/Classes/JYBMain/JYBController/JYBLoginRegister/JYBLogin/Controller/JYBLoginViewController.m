@@ -1,0 +1,231 @@
+//
+//  JYBLoginViewController.m
+//  JianYunBao
+//
+//  Created by 冰点 on 16/1/25.
+//  Copyright © 2016年 冰点. All rights reserved.
+//
+
+#import "JYBLoginViewController.h"
+#import "JYBRegisterController.h"
+#import "JYBForgetPwdController.h"
+#import "AppDelegate.h"
+#import "SYWCommonRequest.h"
+#import "MJExtension.h"
+//#import "JYBConfigItem.h"
+//#import "JYBConfigTool.h"
+#import "JYBUserItem.h"
+#import "JYBUserItemTool.h"
+#import "JYBUserTool.h"
+//#import "JYBConfigItemTool.h"
+#import "BDLoginModule.h"
+#import "JYBUserEntity.h"
+#import "BDClientState.h"
+
+@interface JYBLoginViewController ()
+@property (weak, nonatomic) IBOutlet UIView *backView1;
+@property (weak, nonatomic) IBOutlet UIView *backView2;
+@property (weak, nonatomic) IBOutlet UIView *backView3;
+@property (weak, nonatomic) IBOutlet UIButton *login;
+@property (weak, nonatomic) IBOutlet UIButton *registerBtn;
+@property (nonatomic, strong) JYBConfigItem *config;
+@property (nonatomic, strong) JYBUserItem *user;
+@property (weak, nonatomic) IBOutlet UITextField *enterpriseCodeTextField;
+@property (weak, nonatomic) IBOutlet UITextField *accountTextField;
+@property (weak, nonatomic) IBOutlet UITextField *passWordTextField;
+
+@end
+
+@implementation JYBLoginViewController
+- (void)viewWillAppear:(BOOL)animated{
+    [super viewWillAppear:animated];
+    [[NSNotificationCenter defaultCenter] removeObserver:self name:LOGINFAILDNOTIFICATION object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(loginFaild:) name:LOGINFAILDNOTIFICATION object:nil];
+}
+- (void)loginFaild:(NSNotification *)notification{
+    NSString * faildMsg = (NSString *)notification.object;
+    showMessage(faildMsg);
+    [self hideHud];
+}
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    self.navigationTitle = @"登陆";
+    self.view.backgroundColor = [UIColor whiteColor];
+    
+    //test----------------
+  self.enterpriseCodeTextField.text = @"10005";
+  self.accountTextField.text = @"cs001";
+  self.passWordTextField.text = @"123";
+    
+}
+
+- (void)GetConfig:(NSString *)enterpriseCode{
+    
+    SYWCommonRequest *api = [[SYWCommonRequest alloc] init];
+    api.ReqURL = @"http://www.yuntech.com.cn/yuntech/DataService/JianyunBao.aspx?";
+    api.ReqDictionary =
+    @{
+      @"method":@"GetConfig",
+      @"enterpriseCode":enterpriseCode};
+    __weak typeof(self) weakSelf = self;
+    [api startWithCompletionBlockWithSuccess:^(YTKBaseRequest *request) {
+        DLogJSON(request.responseJSONObject);
+        if (GoodResponse) {
+            weakSelf.config = [JYBConfigItem mj_objectWithKeyValues:APIJsonObject];
+            [JYBConfigTool saveConfig:weakSelf.config];
+            [weakSelf toLogin];
+        }else{
+        [self showHint:BadResponseMessage];
+        }
+
+    } failure:^(YTKBaseRequest *request) {
+    }];
+}
+
+- (void)toLogin{
+    SYWCommonRequest *api = [[SYWCommonRequest alloc] init];
+    api.ReqURL = [NSString stringWithFormat:@"%@/jianyunbao.aspx",self.config.erpHttpUrl];
+    api.ReqDictionary =
+    @{
+      @"method":@"login",
+      @"enterpriseCode":self.enterpriseCodeTextField.text,
+      @"label":self.accountTextField.text,
+      @"password":self.passWordTextField.text,
+      @"phoneType":@"",
+      @"osVersion":@""};
+    __weak typeof(self) weakSelf = self;
+    [api startWithCompletionBlockWithSuccess:^(YTKBaseRequest *request) {
+        DLogJSON(request.responseJSONObject);
+        if (GoodResponse) {
+            NSString *userId = request.responseJSONObject[@"id"];
+            [weakSelf getUser:userId];
+        }else{
+        [self showHint:BadResponseMessage];
+        }
+
+    } failure:^(YTKBaseRequest *request) {
+    }];
+}
+
+- (void)getUser:(NSString *)userId{
+    SYWCommonRequest *api = [[SYWCommonRequest alloc] init];
+    api.ReqURL = JYBErpHttpUrl(@"jianyunbao.aspx");//[NSString stringWithFormat:@"%@/jianyunbao.aspx",self.config.erpHttpUrl];
+    api.ReqDictionary =
+    @{
+      @"method":@"getUserInfo",
+      @"enterpriseCode":self.enterpriseCodeTextField.text,
+      @"id":userId};
+    __weak typeof(self) weakSelf = self;
+    [api startWithCompletionBlockWithSuccess:^(YTKBaseRequest *request) {
+        DLogJSON(request.responseJSONObject);
+        if (GoodResponse) {
+        weakSelf.user = [JYBUserItem mj_objectWithKeyValues:APIJsonObject];
+            [RuntimeStatus sharedInstance].userItem = weakSelf.user;
+            if ([JYBUserItemTool users:userId].count) {
+                [JYBUserItemTool updateUser:weakSelf.user];
+            }else{
+                [JYBUserItemTool addUser:weakSelf.user];
+            }
+            [JYBUserTool saveUser:weakSelf.user];
+            [weakSelf loginSuccess];
+
+        }else{
+            [self showHint:BadResponseMessage];
+        }
+
+    } failure:^(YTKBaseRequest *request) {
+    }];
+}
+
+- (BOOL)check{
+    if (self.enterpriseCodeTextField.text == nil || [self.enterpriseCodeTextField.text isEqualToString:@""]) {
+        return NO;
+    }
+    if (self.accountTextField.text == nil || [self.accountTextField.text isEqualToString:@""]) {
+        return NO;
+    }
+    if (self.passWordTextField.text == nil || [self.passWordTextField.text isEqualToString:@""]) {
+        return NO;
+    }
+    
+    return YES;
+}
+
+- (void)loginSuccess{
+    if (self.loginModal == JYBLoginModalDefault) {
+        [[AppDelegate thisAppDelegate] setupTabbarController];
+    } else {
+        [self dismissViewControllerAnimated:YES completion:^{
+            if (self.loginCompleted) {
+                self.loginCompleted();
+            }
+        }];
+    }
+}
+
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+ 
+}
+- (IBAction)resetPassWord:(id)sender {
+//    [JYBConfigItemTool configs];
+//    DLog(@"%@",item.androidAppSize);
+    JYBForgetPwdController *resetPwd = [[JYBForgetPwdController alloc] init];
+    [self.navigationController pushViewController:resetPwd animated:YES];
+    
+}
+
+- (void)setLogin:(UIButton *)login{
+    _login = login;
+    login.backgroundColor = [UIColor hexFloatColor:@"299be8"];
+}
+- (IBAction)loginClick:(id)sender {
+    if ([self check]) {
+//    [self GetConfig:self.enterpriseCodeTextField.text];
+        /*!
+         *  @author 冰点, 16-02-18 09:02:49
+         *
+         *  @brief 替换登录方法
+         */
+        [self showHudInView:self.view hint:@"登录中..."];
+        [[BDLoginModule sharedInstance] loginWithUsername:self.accountTextField.text password:self.passWordTextField.text enterpriseCode:self.enterpriseCodeTextField.text success:^(JYBUserEntity *userEntity) {
+            [RuntimeStatus sharedInstance].userEntity = userEntity;
+            [[RuntimeStatus sharedInstance] updateData];
+            [self getUser:userEntity.userid];
+            [self hideHud];
+        } failure:^(NSError *error) {
+            [self hideHud];
+        }];
+    }
+    
+//     [[AppDelegate thisAppDelegate] setupTabbarController];
+}
+
+- (void)setRegisterBtn:(UIButton *)registerBtn{
+    _registerBtn = registerBtn;
+    registerBtn.backgroundColor = [UIColor whiteColor];
+    registerBtn.layer.borderWidth = 1;
+    registerBtn.layer.borderColor = [UIColor hexFloatColor:@"147bc0"].CGColor;
+}
+
+- (IBAction)registerClick:(id)sender {
+    JYBRegisterController *registerCtr = [[JYBRegisterController alloc] init];
+    [self.navigationController pushViewController:registerCtr animated:YES];
+}
+
+- (void)setBackView1:(UIView *)backView1{
+    _backView1 = backView1;
+    backView1.layer.borderWidth = 1;
+    backView1.layer.borderColor = [UIColor colorWithRed:223/255.0 green:223/255.0 blue:223/255.0 alpha:1].CGColor;
+}
+- (void)setBackView2:(UIView *)backView2{
+    _backView2 = backView2;
+    backView2.backgroundColor = [UIColor colorWithRed:223/255.0 green:223/255.0 blue:223/255.0 alpha:1];
+}
+- (void)setBackView3:(UIView *)backView3{
+    _backView3 = backView3;
+    backView3.backgroundColor = [UIColor colorWithRed:223/255.0 green:223/255.0 blue:223/255.0 alpha:1];
+}
+
+@end

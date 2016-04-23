@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9059" systemVersion="14F1605" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" restorationIdentifier="JYBNoticeListCell" selectionStyle="default" indentationWidth="10" reuseIdentifier="JYBNoticeListCell" id="F5n-Ml-d2W" customClass="JYBNoticeListCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="90"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="F5n-Ml-d2W" id="O9u-zh-4sN">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="89"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="标题标题标题标题" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6AP-g3-S7i" customClass="JYBLabel">
+                        <rect key="frame" x="8" y="8" width="304" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="0.17647058823529413" green="0.52549019607843139" blue="0.88235294117647056" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tPL-FQ-emU" customClass="JYBLabel">
+                        <rect key="frame" x="8" y="28" width="304" height="40"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="发布日期：2015－12-12｜发布人：张某某" textAlignment="natural" lineBreakMode="characterWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rWh-YI-rEc" customClass="JYBLabel">
+                        <rect key="frame" x="8" y="68" width="210" height="20"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="评论" translatesAutoresizingMaskIntoConstraints="NO" id="vNW-J2-8GB" customClass="JYBImageView">
+                        <rect key="frame" x="232" y="71" width="14" height="14"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="14" id="Kmr-Xt-mWe"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="10" textAlignment="natural" lineBreakMode="characterWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xgB-kS-tdT" customClass="JYBLabel">
+                        <rect key="frame" x="249" y="71" width="20" height="14"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="characterWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="J77-uG-EIx" userLabel="间隔" customClass="JYBLabel">
+                        <rect key="frame" x="267" y="72" width="1" height="10"/>
+                        <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="赞" translatesAutoresizingMaskIntoConstraints="NO" id="Z5B-Gn-Z3g" customClass="JYBImageView">
+                        <rect key="frame" x="275" y="71" width="14" height="14"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="14" id="bwm-ps-2OV"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="10" textAlignment="natural" lineBreakMode="characterWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2x7-ta-1Sa" customClass="JYBLabel">
+                        <rect key="frame" x="292" y="68" width="13" height="20"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Gh-KO-PyE">
+                        <rect key="frame" x="284" y="7" width="20" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="OMO-io-xpB"/>
+                            <constraint firstAttribute="width" constant="20" id="sgc-gr-y1s"/>
+                        </constraints>
+                        <state key="normal" image="btn_checkbox_off.png"/>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="已存在" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FK9-st-ozv">
+                        <rect key="frame" x="238" y="6" width="42" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                        <color key="textColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="2x7-ta-1Sa" firstAttribute="top" secondItem="tPL-FQ-emU" secondAttribute="bottom" id="1TM-8o-hiy"/>
+                    <constraint firstItem="rWh-YI-rEc" firstAttribute="top" secondItem="tPL-FQ-emU" secondAttribute="bottom" id="8Hd-cp-QSn"/>
+                    <constraint firstItem="6AP-g3-S7i" firstAttribute="trailing" secondItem="O9u-zh-4sN" secondAttribute="trailingMargin" id="9KW-2D-rKY"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="rWh-YI-rEc" secondAttribute="bottom" constant="-7" id="Ary-S1-Afy"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="1Gh-KO-PyE" secondAttribute="trailing" constant="8" id="BQ0-Gr-vz7"/>
+                    <constraint firstItem="vNW-J2-8GB" firstAttribute="top" secondItem="Z5B-Gn-Z3g" secondAttribute="top" id="CIr-pQ-1os"/>
+                    <constraint firstItem="vNW-J2-8GB" firstAttribute="centerY" secondItem="rWh-YI-rEc" secondAttribute="centerY" id="CwU-go-3ec"/>
+                    <constraint firstItem="6AP-g3-S7i" firstAttribute="leading" secondItem="O9u-zh-4sN" secondAttribute="leadingMargin" id="Fp3-Mg-qHl"/>
+                    <constraint firstItem="xgB-kS-tdT" firstAttribute="leading" secondItem="vNW-J2-8GB" secondAttribute="trailing" constant="3" id="Tt6-FY-EJO"/>
+                    <constraint firstItem="tPL-FQ-emU" firstAttribute="top" secondItem="O9u-zh-4sN" secondAttribute="topMargin" constant="20" id="UbE-hv-8Wh"/>
+                    <constraint firstAttribute="trailing" secondItem="Z5B-Gn-Z3g" secondAttribute="trailing" constant="31" id="WEj-MZ-aH5"/>
+                    <constraint firstItem="tPL-FQ-emU" firstAttribute="leading" secondItem="O9u-zh-4sN" secondAttribute="leadingMargin" id="XzD-Sy-8Y0"/>
+                    <constraint firstAttribute="trailing" secondItem="vNW-J2-8GB" secondAttribute="trailing" constant="74" id="XzE-8k-Z33"/>
+                    <constraint firstItem="vNW-J2-8GB" firstAttribute="top" secondItem="tPL-FQ-emU" secondAttribute="bottom" constant="3" id="Xzg-th-oxe"/>
+                    <constraint firstItem="vNW-J2-8GB" firstAttribute="centerY" secondItem="2x7-ta-1Sa" secondAttribute="centerY" id="ahQ-6x-QpB"/>
+                    <constraint firstItem="2x7-ta-1Sa" firstAttribute="top" secondItem="6AP-g3-S7i" secondAttribute="bottom" constant="39" id="ao7-dR-gnL"/>
+                    <constraint firstItem="6AP-g3-S7i" firstAttribute="top" secondItem="O9u-zh-4sN" secondAttribute="topMargin" id="caU-ds-qO3"/>
+                    <constraint firstItem="2x7-ta-1Sa" firstAttribute="leading" secondItem="Z5B-Gn-Z3g" secondAttribute="trailing" constant="3" id="fAu-AW-QFh"/>
+                    <constraint firstItem="1Gh-KO-PyE" firstAttribute="top" secondItem="O9u-zh-4sN" secondAttribute="topMargin" constant="-1" id="h18-U2-GPk"/>
+                    <constraint firstItem="tPL-FQ-emU" firstAttribute="top" secondItem="1Gh-KO-PyE" secondAttribute="bottom" constant="1" id="jBg-jp-kxW"/>
+                    <constraint firstItem="Z5B-Gn-Z3g" firstAttribute="leading" secondItem="xgB-kS-tdT" secondAttribute="trailing" constant="6" id="l6U-9n-bA3"/>
+                    <constraint firstItem="rWh-YI-rEc" firstAttribute="leading" secondItem="O9u-zh-4sN" secondAttribute="leadingMargin" id="lJt-c1-OlO"/>
+                    <constraint firstItem="vNW-J2-8GB" firstAttribute="centerY" secondItem="xgB-kS-tdT" secondAttribute="centerY" id="lfi-gJ-48y"/>
+                    <constraint firstItem="vNW-J2-8GB" firstAttribute="leading" secondItem="rWh-YI-rEc" secondAttribute="trailing" constant="14" id="okl-qN-6CC"/>
+                    <constraint firstItem="tPL-FQ-emU" firstAttribute="trailing" secondItem="O9u-zh-4sN" secondAttribute="trailingMargin" id="uZ0-WW-Evf"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="agreeCountLab" destination="2x7-ta-1Sa" id="amC-p6-NND"/>
+                <outlet property="commentCountLab" destination="xgB-kS-tdT" id="rRl-9T-DrH"/>
+                <outlet property="contentLab" destination="tPL-FQ-emU" id="pKs-sc-6lj"/>
+                <outlet property="dateLab" destination="rWh-YI-rEc" id="2nX-oV-FD0"/>
+                <outlet property="selectBtn" destination="1Gh-KO-PyE" id="eCk-dR-YoT"/>
+                <outlet property="stateLabel" destination="FK9-st-ozv" id="tm5-fg-s4M"/>
+                <outlet property="titleLab" destination="6AP-g3-S7i" id="2cW-mP-biK"/>
+            </connections>
+            <point key="canvasLocation" x="474" y="218"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="btn_checkbox_off.png" width="50" height="50"/>
+        <image name="评论" width="14" height="14"/>
+        <image name="赞" width="14" height="14"/>
+    </resources>
+</document>

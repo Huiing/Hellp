@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8226170d-4e5b-7a42-8c83-fcc4fd2b0742",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8226170d-4e5b-7a42-8c83-fcc4fd2b0742" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8226170d-4e5b-7a42-8c83-fcc4fd2b0742" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "66086CAE-4114-41C0-878C-83FABDCE96FA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8226170d-4e5b-7a42-8c83-fcc4fd2b0742" : "jianyunbao\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JianYunBao",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JianYunBao-iOS\/JianYunBao\/JianYunBao.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/zheng.jiang@124.200.37.78:8443\/svn\/jianyunbao",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8226170d-4e5b-7a42-8c83-fcc4fd2b0742"
+    }
+  ]
+}

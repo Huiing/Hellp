@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9532" systemVersion="14F1605" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="KGk-i7-Jjw" customClass="JYBPersonalHeaderTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="100"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="99.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="测试人员2" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bJj-Mv-KwV">
+                        <rect key="frame" x="99" y="26" width="69" height="18"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="cs002" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ySA-ka-Kxt">
+                        <rect key="frame" x="99" y="57" width="38" height="16"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2dQ-yk-5Di">
+                        <rect key="frame" x="10" y="10" width="74" height="74"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="2dQ-yk-5Di" secondAttribute="height" multiplier="1:1" id="0Vm-Ob-JKy"/>
+                        </constraints>
+                        <connections>
+                            <action selector="BtnClick:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="EmZ-Bx-0Kb"/>
+                        </connections>
+                    </button>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="zBe-Lf-yzy">
+                        <rect key="frame" x="178" y="29" width="12" height="12"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="12" id="0xH-m6-evY"/>
+                            <constraint firstAttribute="height" constant="12" id="hNe-xn-F7k"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="bJj-Mv-KwV" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" constant="-15" id="GDc-EA-Fjl"/>
+                    <constraint firstItem="zBe-Lf-yzy" firstAttribute="leading" secondItem="bJj-Mv-KwV" secondAttribute="trailing" constant="10" id="LAE-iL-RBe"/>
+                    <constraint firstItem="ySA-ka-Kxt" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" constant="15" id="X93-qF-d7l"/>
+                    <constraint firstItem="ySA-ka-Kxt" firstAttribute="leading" secondItem="2dQ-yk-5Di" secondAttribute="trailing" constant="15" id="lTL-do-crf"/>
+                    <constraint firstAttribute="bottom" secondItem="2dQ-yk-5Di" secondAttribute="bottom" constant="15" id="lVA-cN-K64"/>
+                    <constraint firstItem="bJj-Mv-KwV" firstAttribute="leading" secondItem="2dQ-yk-5Di" secondAttribute="trailing" constant="15" id="nFQ-yY-Ab1"/>
+                    <constraint firstItem="2dQ-yk-5Di" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="ozj-Jn-78f"/>
+                    <constraint firstItem="zBe-Lf-yzy" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" constant="-15" id="pdB-04-c7R"/>
+                    <constraint firstItem="2dQ-yk-5Di" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="y3g-cZ-f24"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="Btn" destination="2dQ-yk-5Di" id="zBQ-1M-Vtr"/>
+                <outlet property="nameLabel" destination="bJj-Mv-KwV" id="IAn-xV-2rd"/>
+                <outlet property="sexImageView" destination="zBe-Lf-yzy" id="MNb-aJ-Uy1"/>
+                <outlet property="userNameLabel" destination="ySA-ka-Kxt" id="gXg-yz-CxA"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+</document>

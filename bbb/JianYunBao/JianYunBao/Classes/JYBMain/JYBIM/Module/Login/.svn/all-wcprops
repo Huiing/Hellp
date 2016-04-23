@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jianyunbao/!svn/ver/204/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Module/Login
+END
+BDLoginModule.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianyunbao/!svn/ver/204/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Module/Login/BDLoginModule.m
+END
+JYBIMServerUserLogin.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianyunbao/!svn/ver/21/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Module/Login/JYBIMServerUserLogin.h
+END
+JYBTCPLoginServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianyunbao/!svn/ver/21/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Module/Login/JYBTCPLoginServer.h
+END
+JYBIMServerUserLogin.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianyunbao/!svn/ver/22/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Module/Login/JYBIMServerUserLogin.m
+END
+JYBTCPLoginServer.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianyunbao/!svn/ver/21/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Module/Login/JYBTCPLoginServer.m
+END
+BDLoginModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jianyunbao/!svn/ver/22/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Module/Login/BDLoginModule.h
+END

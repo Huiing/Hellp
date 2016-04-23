@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/jianyunbao/!svn/ver/64/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/baiduMap/BaiduMapAPI_Location.framework/Headers
+END
+BMKLocationService.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/jianyunbao/!svn/ver/64/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/baiduMap/BaiduMapAPI_Location.framework/Headers/BMKLocationService.h
+END
+BMKLocationComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/jianyunbao/!svn/ver/64/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/baiduMap/BaiduMapAPI_Location.framework/Headers/BMKLocationComponent.h
+END
+BMKLocationVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/jianyunbao/!svn/ver/64/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/baiduMap/BaiduMapAPI_Location.framework/Headers/BMKLocationVersion.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jianyunbao/!svn/ver/104/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther
+END
+BDSendBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianyunbao/!svn/ver/7/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDSendBuffer.h
+END
+BDAPIUnrequestScheduleProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/jianyunbao/!svn/ver/72/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDAPIUnrequestScheduleProtocol.h
+END
+BDUnrequestSuperAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jianyunbao/!svn/ver/104/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDUnrequestSuperAPI.h
+END
+BDAPISchedule.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianyunbao/!svn/ver/7/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDAPISchedule.h
+END
+BDNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianyunbao/!svn/ver/7/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDNotification.h
+END
+BDTCPProtocolHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jianyunbao/!svn/ver/7/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDTCPProtocolHeader.m
+END
+BDAPIScheduleProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianyunbao/!svn/ver/22/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDAPIScheduleProtocol.h
+END
+BDSendBuffer.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianyunbao/!svn/ver/7/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDSendBuffer.m
+END
+BDUnrequestSuperAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianyunbao/!svn/ver/95/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDUnrequestSuperAPI.m
+END
+BDAPISchedule.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianyunbao/!svn/ver/55/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDAPISchedule.m
+END
+BDNotification.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianyunbao/!svn/ver/7/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDNotification.m
+END
+BDTCPProtocolHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianyunbao/!svn/ver/14/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/BDTCPLayer/BDIMOther/BDTCPProtocolHeader.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianyunbao/!svn/ver/204/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/Controller
+END
+JYBRefreshTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianyunbao/!svn/ver/48/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/Controller/JYBRefreshTableViewController.h
+END
+JYBChatSettingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/jianyunbao/!svn/ver/181/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/Controller/JYBChatSettingViewController.xib
+END
+JYBSingleChatSettingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/jianyunbao/!svn/ver/194/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/Controller/JYBSingleChatSettingViewController.xib
+END
+JYBRefreshTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianyunbao/!svn/ver/48/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/Controller/JYBRefreshTableViewController.m
+END
+JYBChatSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianyunbao/!svn/ver/182/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/Controller/JYBChatSettingViewController.h
+END
+JYBChatViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianyunbao/!svn/ver/182/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/Controller/JYBChatViewController.h
+END
+JYBSingleChatSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/jianyunbao/!svn/ver/194/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/Controller/JYBSingleChatSettingViewController.h
+END
+JYBChatSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianyunbao/!svn/ver/195/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/Controller/JYBChatSettingViewController.m
+END
+JYBChatViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianyunbao/!svn/ver/204/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/Controller/JYBChatViewController.m
+END
+JYBSingleChatSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/jianyunbao/!svn/ver/195/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/Controller/JYBSingleChatSettingViewController.m
+END

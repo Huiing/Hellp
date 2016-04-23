@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jianyunbao/!svn/ver/142/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility
+END
+UIFont+AdaptiveFont.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIFont+AdaptiveFont.m
+END
+NSString+BDExtension.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianyunbao/!svn/ver/141/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/NSString+BDExtension.m
+END
+UIControl+BDExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIControl+BDExtension.h
+END
+NSDictionary+Accessors.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/NSDictionary+Accessors.m
+END
+UIViewController+BDHUD.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jianyunbao/!svn/ver/20/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIViewController+BDHUD.h
+END
+UITableViewCell+BDCategoryCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UITableViewCell+BDCategoryCell.h
+END
+UIColor+BDHexColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianyunbao/!svn/ver/47/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIColor+BDHexColor.h
+END
+UIControl+BDExtension.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIControl+BDExtension.m
+END
+UIView+BDFrameCategory.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIView+BDFrameCategory.h
+END
+UIViewController+BDHUD.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jianyunbao/!svn/ver/20/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIViewController+BDHUD.m
+END
+JYBDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jianyunbao/!svn/ver/71/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/JYBDevice.h
+END
+UITableViewCell+BDCategoryCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jianyunbao/!svn/ver/93/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UITableViewCell+BDCategoryCell.m
+END
+UIColor+BDHexColor.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianyunbao/!svn/ver/47/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIColor+BDHexColor.m
+END
+UIView+BDFrameCategory.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIView+BDFrameCategory.m
+END
+AdaptiveFontUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/AdaptiveFontUtility.h
+END
+JYBDevice.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jianyunbao/!svn/ver/71/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/JYBDevice.m
+END
+NSString+PinYin.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jianyunbao/!svn/ver/24/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/NSString+PinYin.h
+END
+AdaptiveFontUtility.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/AdaptiveFontUtility.m
+END
+BDMesssageHUD.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/BDMesssageHUD.h
+END
+UIView+BDIBInspectable.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIView+BDIBInspectable.h
+END
+NSString+PinYin.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jianyunbao/!svn/ver/24/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/NSString+PinYin.m
+END
+RegularJudge.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/RegularJudge.h
+END
+BDMesssageHUD.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/BDMesssageHUD.m
+END
+BDBaseTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/BDBaseTableView.h
+END
+UIView+BDIBInspectable.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIView+BDIBInspectable.m
+END
+UIFont+AdaptiveFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/UIFont+AdaptiveFont.h
+END
+RegularJudge.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/RegularJudge.m
+END
+NSString+BDExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianyunbao/!svn/ver/141/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/NSString+BDExtension.h
+END
+NSDictionary+Accessors.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/NSDictionary+Accessors.h
+END
+BDBaseTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianyunbao/!svn/ver/2/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/BDBaseTableView.m
+END

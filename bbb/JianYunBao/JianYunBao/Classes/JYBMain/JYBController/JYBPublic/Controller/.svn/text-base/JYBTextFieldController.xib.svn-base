@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="JYBTextFieldController">
+            <connections>
+                <outlet property="textField" destination="Hkk-Cn-En5" id="kcT-NZ-43u"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="warmTextField" destination="vGh-aS-uh7" id="xSD-Op-eqA"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Hkk-Cn-En5" customClass="JYBTextField">
+                    <rect key="frame" x="10" y="84" width="300" height="41"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="Hkk-Cn-En5" secondAttribute="height" multiplier="300:33" id="fEB-ms-eWb"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XzB-ir-rek">
+                    <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                    <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="rTi-J6-eI0"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="rTi-J6-eI0"/>
+                        </mask>
+                    </variation>
+                    <variation key="widthClass=compact">
+                        <mask key="constraints">
+                            <include reference="rTi-J6-eI0"/>
+                        </mask>
+                    </variation>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="及时更新邮箱可以让你的好朋友更容易联系你" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vGh-aS-uh7">
+                    <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="Hkk-Cn-En5" firstAttribute="width" secondItem="i5M-Pr-FkT" secondAttribute="width" multiplier="300:320" id="5Qi-va-DcR"/>
+                <constraint firstItem="Hkk-Cn-En5" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="H43-Mn-xyO"/>
+                <constraint firstItem="XzB-ir-rek" firstAttribute="top" secondItem="Hkk-Cn-En5" secondAttribute="bottom" constant="3" id="Zdm-bD-1TU">
+                    <variation key="widthClass=compact" constant="0.0"/>
+                </constraint>
+                <constraint firstItem="vGh-aS-uh7" firstAttribute="top" secondItem="XzB-ir-rek" secondAttribute="bottom" constant="2" id="ZrE-2F-Nht"/>
+                <constraint firstItem="XzB-ir-rek" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="10" id="dP3-Mf-xT7"/>
+                <constraint firstItem="vGh-aS-uh7" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="15" id="joj-Yo-4MK"/>
+                <constraint firstItem="Hkk-Cn-En5" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="84" id="tpt-ai-9zb"/>
+                <constraint firstAttribute="trailing" secondItem="vGh-aS-uh7" secondAttribute="trailing" constant="15" id="w3n-xU-zny"/>
+                <constraint firstAttribute="trailing" secondItem="XzB-ir-rek" secondAttribute="trailing" constant="10" id="wcV-a7-jln"/>
+            </constraints>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="XzB-ir-rek"/>
+                    <exclude reference="vGh-aS-uh7"/>
+                </mask>
+                <mask key="constraints">
+                    <exclude reference="ZrE-2F-Nht"/>
+                    <exclude reference="joj-Yo-4MK"/>
+                    <exclude reference="w3n-xU-zny"/>
+                    <exclude reference="Zdm-bD-1TU"/>
+                    <exclude reference="dP3-Mf-xT7"/>
+                    <exclude reference="wcV-a7-jln"/>
+                </mask>
+            </variation>
+            <variation key="widthClass=compact">
+                <mask key="subviews">
+                    <include reference="XzB-ir-rek"/>
+                    <include reference="vGh-aS-uh7"/>
+                </mask>
+                <mask key="constraints">
+                    <include reference="ZrE-2F-Nht"/>
+                    <include reference="joj-Yo-4MK"/>
+                    <include reference="w3n-xU-zny"/>
+                    <include reference="Zdm-bD-1TU"/>
+                    <include reference="dP3-Mf-xT7"/>
+                    <include reference="wcV-a7-jln"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="94" y="187"/>
+        </view>
+    </objects>
+</document>

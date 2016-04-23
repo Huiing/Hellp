@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianyunbao/!svn/ver/140/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/View/MessageView/IChatCell
+END
+IChatTimeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianyunbao/!svn/ver/30/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/View/MessageView/IChatCell/IChatTimeCell.m
+END
+IChatViewBaseCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/jianyunbao/!svn/ver/55/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/View/MessageView/IChatCell/IChatViewBaseCell.h
+END
+IChatTagBaseCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/jianyunbao/!svn/ver/30/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/View/MessageView/IChatCell/IChatTagBaseCell.h
+END
+IChatViewBaseCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/jianyunbao/!svn/ver/126/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/View/MessageView/IChatCell/IChatViewBaseCell.m
+END
+IChatViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianyunbao/!svn/ver/33/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/View/MessageView/IChatCell/IChatViewCell.h
+END
+IChatTagBaseCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/jianyunbao/!svn/ver/30/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/View/MessageView/IChatCell/IChatTagBaseCell.m
+END
+IChatTimeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianyunbao/!svn/ver/30/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/View/MessageView/IChatCell/IChatTimeCell.h
+END
+IChatViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianyunbao/!svn/ver/55/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/ChatView/View/MessageView/IChatCell/IChatViewCell.m
+END

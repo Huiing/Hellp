@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/jianyunbao/!svn/ver/201/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller
+END
+JYBCreateGroupViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/jianyunbao/!svn/ver/183/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBCreateGroupViewController.m
+END
+JYBGroupMessageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/jianyunbao/!svn/ver/196/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBGroupMessageViewController.m
+END
+JYBAddTeamViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/jianyunbao/!svn/ver/16/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBAddTeamViewController.xib
+END
+JYBCreateGroupViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/jianyunbao/!svn/ver/16/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBCreateGroupViewController.xib
+END
+JYBChatGroupViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/jianyunbao/!svn/ver/182/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBChatGroupViewController.h
+END
+JYBGroupMessageViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/jianyunbao/!svn/ver/111/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBGroupMessageViewController.xib
+END
+JYBSyncGroupController.h
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/jianyunbao/!svn/ver/108/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBSyncGroupController.h
+END
+JYBAddTeamViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/jianyunbao/!svn/ver/16/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBAddTeamViewController.h
+END
+JYBCreateGroupViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/jianyunbao/!svn/ver/16/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBCreateGroupViewController.h
+END
+JYBChatGroupViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/jianyunbao/!svn/ver/182/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBChatGroupViewController.m
+END
+JYBGroupMessageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/jianyunbao/!svn/ver/8/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBGroupMessageViewController.h
+END
+JYBSyncGroupController.m
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/jianyunbao/!svn/ver/193/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBSyncGroupController.m
+END
+JYBAddTeamViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/jianyunbao/!svn/ver/201/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBMessage/group%20%EF%BC%88%E7%BE%A4%E7%BB%84%E6%B6%88%E6%81%AF%EF%BC%89/Controller/JYBAddTeamViewController.m
+END

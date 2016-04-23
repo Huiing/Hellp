@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/jianyunbao/!svn/ver/64/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/baiduMap/BaiduMapAPI_Base.framework/Headers
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/jianyunbao/!svn/ver/64/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/baiduMap/BaiduMapAPI_Base.framework/Headers/BMKTypes.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/jianyunbao/!svn/ver/64/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/baiduMap/BaiduMapAPI_Base.framework/Headers/BMKVersion.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/jianyunbao/!svn/ver/64/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/baiduMap/BaiduMapAPI_Base.framework/Headers/BMKUserLocation.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/jianyunbao/!svn/ver/64/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/baiduMap/BaiduMapAPI_Base.framework/Headers/BMKGeneralDelegate.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/jianyunbao/!svn/ver/64/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/baiduMap/BaiduMapAPI_Base.framework/Headers/BMKMapManager.h
+END
+BMKBaseComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/jianyunbao/!svn/ver/64/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBOther/JYBUtility/baiduMap/BaiduMapAPI_Base.framework/Headers/BMKBaseComponent.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode
+END
+QRCodeGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/QRCodeGenerator.m
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/bitstream.h
+END
+mask.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/mask.h
+END
+qrencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/qrencode.c
+END
+split.h
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/split.h
+END
+qrinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/qrinput.c
+END
+qrspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/qrspec.h
+END
+qrencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/qrencode.h
+END
+qrinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/qrinput.h
+END
+rscode.c
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/rscode.c
+END
+rscode.h
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/rscode.h
+END
+QRCodeGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/QRCodeGenerator.h
+END
+bitstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/bitstream.c
+END
+mask.c
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/mask.c
+END
+split.c
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/split.c
+END
+qrspec.c
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/jianyunbao/!svn/ver/153/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBController/JYB/JYBApp/QRCodeGenerator(%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90)/libqrencode/qrspec.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianyunbao/!svn/ver/108/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/VoiceConvert/amrwapper
+END
+amrFileCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianyunbao/!svn/ver/37/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/VoiceConvert/amrwapper/amrFileCodec.h
+END
+wav.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/VoiceConvert/amrwapper/wav.h
+END
+amrFileCodec.mm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jianyunbao/!svn/ver/108/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/VoiceConvert/amrwapper/amrFileCodec.mm
+END
+wav.mm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianyunbao/!svn/ver/27/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/Vender/VoiceConvert/amrwapper/wav.mm
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jianyunbao/!svn/ver/120/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBSingle
+END
+JYBIMSendSingleChatMessageApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/jianyunbao/!svn/ver/26/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBSingle/JYBIMSendSingleChatMessageApi.m
+END
+JYBIMGetSingleChatMessageApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/jianyunbao/!svn/ver/21/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBSingle/JYBIMGetSingleChatMessageApi.h
+END
+JYBIMChatSingleHandle.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jianyunbao/!svn/ver/120/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBSingle/JYBIMChatSingleHandle.m
+END
+JYBIMGetSingleChatMessageApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/jianyunbao/!svn/ver/21/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBSingle/JYBIMGetSingleChatMessageApi.m
+END
+JYBIMSendSingleChatMessageApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/jianyunbao/!svn/ver/26/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBSingle/JYBIMSendSingleChatMessageApi.h
+END
+JYBIMChatSingleHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jianyunbao/!svn/ver/112/JianYunBao-iOS/JianYunBao/JianYunBao/Classes/JYBMain/JYBIM/HTTP/JYBMessage/JYBSingle/JYBIMChatSingleHandle.h
+END
